@@ -15,8 +15,8 @@ This is a Python application that simulates projectile motion and plots a graph 
 ### Using the Windows Executable (`.exe`) Version:
 
 1. **Download the Executable:**
-   - Go to the [GitHub releases](https://github.com/yourusername/yourrepository/releases) page.
-   - Find the latest release and locate the Windows executable file (e.g., `projectile_motion.exe`).
+   - Go to the [GitHub releases](https://github.com/georgeh1ll/Projectile-Motion-Simulator/releases) page.
+   - Find the latest release and locate the Windows executable file (e.g., `projectile_motion_simulator.exe`).
    - Click on the file to download it.
 
 2. **Run the Executable:**
