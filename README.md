@@ -56,7 +56,7 @@ This is a Python application that simulates projectile motion and plots a graph 
    - Navigate to the repository directory on your local machine:
 
      ```bash
-     cd yourrepository
+     cd Projectile-Motion-Simulator
      ```
 
    - Run the Python script `Projectile Motion Simulator.py`:
