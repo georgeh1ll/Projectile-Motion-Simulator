@@ -36,12 +36,8 @@ This is a Python application that simulates projectile motion and plots a graph 
 
 ### Using the Python Version:
 
-1. **Clone the Repository:**
-   - If you haven't already, you can clone the GitHub repository to your local machine using Git:
-
-     ```bash
-     git clone https://github.com/georgeh1ll/projectile-motion-simulator.git
-     ```
+1. **Download Python File:**
+   - Download the Python file from the repository.
 
 2. **Install Dependencies:**
 
@@ -53,15 +49,7 @@ This is a Python application that simulates projectile motion and plots a graph 
      ```
 
 3. **Run the Python Script:**
-
-   - Navigate to the repository directory on your local machine:
-
-     ```bash
-     cd Projectile-Motion-Simulator
-     ```
-
-   - Run the Python script `Projectile Motion Simulator.py`:
-
+   - Run using the following:
      ```bash
      python3 Projectile Motion Simulator.py
      ```
