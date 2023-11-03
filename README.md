@@ -7,6 +7,7 @@ This is a Python application that simulates projectile motion and plots a graph 
 - Simulate projectile motion with user-defined initial velocity and launch angle.
 - Plot the trajectory of the projectile in a customizable graph.
 - Set custom x and y limits for the graph.
+- Teaching aid. 
 
 ## Screenshots
 
